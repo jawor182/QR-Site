@@ -2,7 +2,7 @@
 
 This a part of [The Frontent Mentor](https://www.frontendmentor.io/home)
 
-**I used**
+**I used: ** 
 - Vanilla CSS
 - HTML
 
